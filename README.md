@@ -1,7 +1,7 @@
 # code-style-guide
 Mozzet의 제품 및 개발자 성장을 위한 개발 코드 가이드라인입니다.  
 코드 가이드의 경우 기반을 두는 문서 외에 자주 언급되는 부분들은 다시 명시하였습니다.  
-<mark>**수정은 개발자 회의를 거쳐 적용됨을 알아주세요.**</mark>  
+**수정은 개발자 회의를 거쳐 적용됨을 알아주세요.**  
 이 Guide는 `2015.10.07`에 작성되었으며, `2015.10.xx`부터 시행 예정입니다.
 
 ## Code Review
@@ -41,7 +41,8 @@ Mozzet의 제품 및 개발자 성장을 위한 개발 코드 가이드라인입
 * **일반적으로 [Google JavaScript Style Guide](http://google.github.io/styleguide/javascriptguide.xml)를 따릅니다.**
 
 ### Android
-* **일반적으로 [Google Java Style Guide](http://google.github.io/styleguide/javascriptguide.xml)를 따릅니다.**
+* **일반적으로 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html)를 따릅니다.**
 
 ### iOS
 * **일반적으로 [Google Objective-C Style Guide](http://google.github.io/styleguide/objcguide.xml)를 따릅니다.**
+	* Apple의 [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146-SW1)도 참고하면 좋습니다.
