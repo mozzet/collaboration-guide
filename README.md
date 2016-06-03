@@ -60,6 +60,6 @@ Mozzet의 제품 및 개발자 성장을 위한 개발 코드 가이드라인입
 ### Android
 * **일반적으로 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html)를 따릅니다.**
 
-### iOS
+### Objective-C
 * **기본적으로 [New York Times Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)를 따릅니다.**
 	* Apple의 [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html#//apple_ref/doc/uid/10000146-SW1)도 참고하면 좋습니다.
